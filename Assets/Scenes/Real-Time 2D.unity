@@ -7405,6 +7405,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1237231976}
     m_Modifications:
+    - target: {fileID: 196996808961062530, guid: a676f71de5dbf184e9569213d6175ed9, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 3345088251548345870, guid: a676f71de5dbf184e9569213d6175ed9, type: 3}
       propertyPath: m_Name
       value: Herbert (6)
